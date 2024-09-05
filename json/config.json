@@ -1,0 +1,32 @@
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "repository": {
+    "name": "Sanmer Magisk Repo (demo)",
+    "metadata": {
+      "homepage": "https://demo-repo.sanmer.app"
+    },
+    "setting": {
+      "base_url": "https://demo-repo.sanmer.app",
+      "keep_size": 6
+    }
+  },
+  "modules": [
+    {
+      "id": "zygisk-sui",
+      "kind": "update-json",
+      "provider": "https://rikkaapps.github.io/release/sui_zygisk.json",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/RikkaApps/Sui.git",
+        "support": "https://github.com/RikkaApps/Sui/issues"
+      },
+      "setting": {
+        "disabled": false
+      }
+    }
+  ]
+}
