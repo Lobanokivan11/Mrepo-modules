@@ -7,10 +7,10 @@
   "repository": {
     "name": "Sanmer Magisk Repo (demo)",
     "metadata": {
-      "homepage": "https://demo-repo.sanmer.app"
+      "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
     },
     "setting": {
-      "base_url": "https://demo-repo.sanmer.app",
+      "base_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main",
       "keep_size": 6
     }
   },
