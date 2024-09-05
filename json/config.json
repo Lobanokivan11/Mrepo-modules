@@ -27,6 +27,19 @@
       "setting": {
         "disabled": false
       }
+    },
+    {
+      "id": "zygisk_lsposed",
+      "kind": "update-json",
+      "provider": "https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/JingMatrix/LSPosed.git",
+        "support": "https://github.com/JingMatrix/LSPosed/issues"
+      },
+      "setting": {
+        "disabled": false
+      }
     }
   ]
 }
