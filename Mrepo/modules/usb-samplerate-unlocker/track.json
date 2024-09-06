@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "usb-samplerate-unlocker",
+    "name": "USB Samplerate Unlocker",
+    "version": "v1.5.7",
+    "version_code": 1507,
+    "author": "zyhk",
+    "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter."
+  },
+  "versions": [
+    {
+      "timestamp": 1722148008000,
+      "version": "v1.5.7 (1507)",
+      "version_code": 1507,
+      "zip_file": "1507.zip",
+      "changelog": "1507.md"
+    }
+  ]
+}

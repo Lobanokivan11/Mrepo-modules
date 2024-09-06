@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "GlitchedCyberBoot",
+    "name": "CyberGlitch BootAnimation mod",
+    "version": "1.1",
+    "version_code": 110,
+    "author": "SodaSoba",
+    "description": "Modified Cyberpunk2077 Bootanimation with color matching Shutdown animation for OOS 13"
+  },
+  "versions": [
+    {
+      "timestamp": 1681338219000,
+      "version": "1.1 (110)",
+      "version_code": 110,
+      "zip_file": "110.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ytmusic_revancedinject",
+    "name": "YouTube Music ReVanced",
+    "version": "5.38.53",
+    "version_code": 2,
+    "author": "HuskyDG",
+    "description": "YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount"
+  },
+  "versions": [
+    {
+      "timestamp": 1673338863000,
+      "version": "5.38.53 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
+      "changelog": ""
+    }
+  ]
+}

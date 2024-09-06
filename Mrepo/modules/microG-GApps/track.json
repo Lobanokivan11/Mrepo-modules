@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "microG-GApps",
+    "name": "microG-GApps",
+    "version": "v0.2.28.231657",
+    "version_code": 29,
+    "author": "Psk.It",
+    "description": "microG, Playstore, Calendar Sync, Contacts Sync "
+  },
+  "versions": [
+    {
+      "timestamp": 1690613826000,
+      "version": "v0.2.28.231657 (29)",
+      "version_code": 29,
+      "zip_file": "29.zip",
+      "changelog": ""
+    }
+  ]
+}

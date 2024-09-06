@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "trichromelibrary-squoosh",
+    "name": "TrichromeLibrary Squoosh",
+    "version": "v1.5",
+    "version_code": 20240809,
+    "author": "entr0pia@GitHub",
+    "description": "Remove the outdated TrichromeLibrary after reboot | 重启后移除过时的 TrichromeLibrary"
+  },
+  "versions": [
+    {
+      "timestamp": 1723216935000,
+      "version": "v1.5 (20240809)",
+      "version_code": 20240809,
+      "zip_file": "20240809.zip",
+      "changelog": "20240809.md"
+    }
+  ]
+}
