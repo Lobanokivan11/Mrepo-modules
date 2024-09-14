@@ -240,6 +240,28 @@
       }
     },
     {
+      "id": "zygisk_shamiko",
+      "kind": "update-json",
+      "provider": "https://github.com/LSPosed/LSPosed.github.io/raw/master/releases/shamiko.json",
+      "metadata": {
+        "source": "https://github.com/LSPosed/LSPosed.github.io.git"
+      },
+      "setting": {
+        "disabled": false
+      },
+    },
+    {
+      "id": "zygisk-assistant",
+      "kind": "update-json",
+      "provider": "https://github.com/snake-4/Zygisk-Assistant/raw/main/update_metadata/update.json",
+      "metadata": {
+        "source": "https://github.com/snake-4/Zygisk-Assistant.git"
+      },
+      "setting": {
+        "disabled": false
+      },
+    },
+    {
       "id": "charch_openrc",
       "kind": "git",
       "provider": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
