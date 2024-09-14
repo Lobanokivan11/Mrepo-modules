@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "zygisk-assistant",
+    "name": "Zygisk Assistant",
+    "version": "v2.1.3 (7b35d36-release)",
+    "version_code": 213,
+    "author": "snake-4",
+    "description": "A Zygisk module to hide root."
+  },
+  "versions": [
+    {
+      "timestamp": 1723905223000,
+      "version": "v2.1.3 (7b35d36-release) (213)",
+      "version_code": 213,
+      "zip_file": "213.zip",
+      "changelog": "213.md"
+    }
+  ]
+}
