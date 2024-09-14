@@ -248,7 +248,7 @@
       },
       "setting": {
         "disabled": false
-      },
+      }
     },
     {
       "id": "zygisk-assistant",
@@ -259,7 +259,7 @@
       },
       "setting": {
         "disabled": false
-      },
+      }
     },
     {
       "id": "charch_openrc",
