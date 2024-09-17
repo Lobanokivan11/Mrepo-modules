@@ -29,6 +29,17 @@
       }
     },
     {
+      "id": "ainur_jamesdsp",
+      "kind": "update-json",
+      "provider": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/raw/master/update.json",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp.git"
+      },
+      "setting": {
+        "disabled": false
+      }
+    },
+    {
       "id": "zygisk_lsposed",
       "kind": "update-json",
       "provider": "https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json",
