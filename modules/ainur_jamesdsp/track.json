@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ainur_jamesdsp",
+    "name": "JamesDSP Manager",
+    "version": "v6.1 (11-27-2023/11-24-2023)",
+    "version_code": 100,
+    "author": "james34602, zackptg5, ahrion",
+    "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning"
+  },
+  "versions": [
+    {
+      "timestamp": 1726590990616,
+      "version": "v6.1 (11-27-2023/11-24-2023) (100)",
+      "version_code": 100,
+      "zip_file": "100.zip",
+      "changelog": "100.md"
+    }
+  ]
+}
