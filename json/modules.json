@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1728335995658,
+  "timestamp": 1728940738323,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -378,8 +378,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.1.5",
-      "version_code": 7,
+      "version": "1.2.1",
+      "version_code": 9,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -387,6 +387,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1728725274000,
+          "version": "1.2.1 (9)",
+          "version_code": 9,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/chroot-distro/9.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1727548125000,
           "version": "1.1.5 (7)",
