@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1728940738323,
+  "timestamp": 1729545555108,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -50,16 +50,23 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.0 (7068)",
-      "version_code": 7068,
+      "version": "v1.10.1 (7115)",
+      "version_code": 7115,
       "author": "Jing Matrix & LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15 Beta 4. Requires Magisk 24.0+ and Zygisk enabled.",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
       "metadata": {
         "license": "GPL-3.0",
         "source": "https://github.com/JingMatrix/LSPosed.git",
         "support": "https://github.com/JingMatrix/LSPosed/issues"
       },
       "versions": [
+        {
+          "timestamp": 1729070017000,
+          "version": "v1.10.1 (7115)",
+          "version_code": 7115,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/zygisk_lsposed/7115.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/zygisk_lsposed/7115.md"
+        },
         {
           "timestamp": 1721778348000,
           "version": "v1.10.0 (7068)",
@@ -378,8 +385,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.2.1",
-      "version_code": 9,
+      "version": "1.2.2",
+      "version_code": 10,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -387,6 +394,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1729178842000,
+          "version": "1.2.2 (10)",
+          "version_code": 10,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/chroot-distro/10.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1728725274000,
           "version": "1.2.1 (9)",
