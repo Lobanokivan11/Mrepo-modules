@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1729545555108,
+  "timestamp": 1730150386431,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -168,8 +168,8 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.8",
-      "version_code": 1308,
+      "version": "v1.3.9",
+      "version_code": 1309,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "metadata": {
@@ -178,6 +178,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues"
       },
       "versions": [
+        {
+          "timestamp": 1730102034000,
+          "version": "v1.3.9 (1309)",
+          "version_code": 1309,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/audio-misc-settings/1309.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/audio-misc-settings/1309.md"
+        },
         {
           "timestamp": 1723466376000,
           "version": "v1.3.8 (1308)",
@@ -385,8 +392,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.2.2",
-      "version_code": 10,
+      "version": "1.2.3",
+      "version_code": 11,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -394,6 +401,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1729612861000,
+          "version": "1.2.3 (11)",
+          "version_code": 11,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/chroot-distro/11.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1729178842000,
           "version": "1.2.2 (10)",
@@ -1805,8 +1819,8 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.46.1",
-      "version_code": 20240825,
+      "version": "v3.47.0",
+      "version_code": 20241023,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "metadata": {
@@ -1815,6 +1829,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/issues"
       },
       "versions": [
+        {
+          "timestamp": 1729715172000,
+          "version": "v3.47.0 (20241023)",
+          "version_code": 20241023,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/sqlite3/20241023.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1724538295000,
           "version": "v3.46.1 (20240825)",
