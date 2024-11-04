@@ -2,12 +2,19 @@
   "module": {
     "id": "abootloop",
     "name": "Anti bootloop",
-    "version": "v1.3.1",
-    "version_code": 5,
+    "version": "v1.3.2",
+    "version_code": 6,
     "author": "nedorazrab0",
-    "description": "Protection from bootloop"
+    "description": "Bootloop protection"
   },
   "versions": [
+    {
+      "timestamp": 1730660996000,
+      "version": "v1.3.2 (6)",
+      "version_code": 6,
+      "zip_file": "6.zip",
+      "changelog": "6.md"
+    },
     {
       "timestamp": 1721435287000,
       "version": "v1.3.1 (5)",

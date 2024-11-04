@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1730150386431,
+  "timestamp": 1730755201157,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -79,16 +79,23 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3.1",
-      "version_code": 5,
+      "version": "v1.3.2",
+      "version_code": 6,
       "author": "nedorazrab0",
-      "description": "Protection from bootloop",
+      "description": "Bootloop protection",
       "metadata": {
         "license": "MIT",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues"
       },
       "versions": [
+        {
+          "timestamp": 1730660996000,
+          "version": "v1.3.2 (6)",
+          "version_code": 6,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/abootloop/6.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/abootloop/6.md"
+        },
         {
           "timestamp": 1721435287000,
           "version": "v1.3.1 (5)",
