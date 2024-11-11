@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1730755201157,
+  "timestamp": 1731359916567,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1849,6 +1849,29 @@
           "version_code": 20240825,
           "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/sqlite3/20240825.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "StevenBlock",
+      "name": "StevenBlock | Anti-Malware & Ad Blocker",
+      "version": "v1.5.0",
+      "version_code": 51,
+      "author": "𝗦𝗵𝗟𝗲𝗿𝗣",
+      "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
+      "metadata": {
+        "license": "GPL-2.0",
+        "homepage": "https://github.com/mikropsoft/StevenBlock",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1731359906707,
+          "version": "v1.5.0 (51)",
+          "version_code": 51,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/51.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/51.md"
         }
       ]
     },
