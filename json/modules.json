@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1731359916567,
+  "timestamp": 1731964720482,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1001,17 +1001,24 @@
     },
     {
       "id": "HideNavBar",
-      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
-      "version": "v27.3",
-      "version_code": 67,
+      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-V)",
+      "version": "v27.5",
+      "version_code": 68,
       "author": "DanGLES3",
-      "description": "Customize Android 10-14's navigation gestures",
+      "description": "Customize Android 10-15's navigation gestures",
       "metadata": {
         "license": "GPL-3.0",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues"
       },
       "versions": [
+        {
+          "timestamp": 1731855817000,
+          "version": "v27.5 (68)",
+          "version_code": 68,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/HideNavBar/68.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1716752152000,
           "version": "v27.3 (67)",
