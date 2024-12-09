@@ -2,12 +2,19 @@
   "module": {
     "id": "microg_installer",
     "name": "microG Installer Revived",
-    "version": "Revived 4.1.0-0",
-    "version_code": 40100,
+    "version": "Revived 4.2.0-0",
+    "version_code": 40200,
     "author": "nift4",
     "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/"
   },
   "versions": [
+    {
+      "timestamp": 1733511152000,
+      "version": "Revived 4.2.0-0 (40200)",
+      "version_code": 40200,
+      "zip_file": "40200.zip",
+      "changelog": "40200.md"
+    },
     {
       "timestamp": 1725799231000,
       "version": "Revived 4.1.0-0 (40100)",

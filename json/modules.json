@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1733174457541,
+  "timestamp": 1733779292083,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1282,8 +1282,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 4.1.0-0",
-      "version_code": 40100,
+      "version": "Revived 4.2.0-0",
+      "version_code": 40200,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "metadata": {
@@ -1292,6 +1292,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/issues"
       },
       "versions": [
+        {
+          "timestamp": 1733511152000,
+          "version": "Revived 4.2.0-0 (40200)",
+          "version_code": 40200,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/microg_installer/40200.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/microg_installer/40200.md"
+        },
         {
           "timestamp": 1725799231000,
           "version": "Revived 4.1.0-0 (40100)",
