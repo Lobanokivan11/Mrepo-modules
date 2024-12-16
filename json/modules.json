@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1733779292083,
+  "timestamp": 1734384050255,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1499,8 +1499,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.4.0",
-      "version_code": 240,
+      "version": "2.5.0",
+      "version_code": 250,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "metadata": {
@@ -1510,6 +1510,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734285048000,
+          "version": "2.5.0 (250)",
+          "version_code": 250,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/open_webview/250.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/open_webview/250.md"
+        },
         {
           "timestamp": 1709485366000,
           "version": "2.4.0 (240)",
@@ -1805,8 +1812,8 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.47.0",
-      "version_code": 20241023,
+      "version": "v3.47.2",
+      "version_code": 20241212,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "metadata": {
@@ -1815,6 +1822,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/issues"
       },
       "versions": [
+        {
+          "timestamp": 1733952052000,
+          "version": "v3.47.2 (20241212)",
+          "version_code": 20241212,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/sqlite3/20241212.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1729715172000,
           "version": "v3.47.0 (20241023)",
