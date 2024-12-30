@@ -2,12 +2,19 @@
   "module": {
     "id": "Malwack",
     "name": "Malwack | Anti-Malware & Ad Blocker",
-    "version": "v4.2.6",
-    "version_code": 23,
+    "version": "v5.0.3",
+    "version_code": 29,
     "author": "Person0z",
-    "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device – no entry for malware, bugs, or party crashers!"
+    "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!"
   },
   "versions": [
+    {
+      "timestamp": 1735593503712,
+      "version": "v5.0.3 (29)",
+      "version_code": 29,
+      "zip_file": "29.zip",
+      "changelog": "29.md"
+    },
     {
       "timestamp": 1734988701700,
       "version": "v4.2.6 (23)",

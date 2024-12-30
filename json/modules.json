@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1734988718433,
+  "timestamp": 1735593521873,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -399,8 +399,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.3.1",
-      "version_code": 13,
+      "version": "1.3.2",
+      "version_code": 14,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -408,6 +408,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1735512977000,
+          "version": "1.3.2 (14)",
+          "version_code": 14,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/chroot-distro/14.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1734907649000,
           "version": "1.3.1 (13)",
@@ -1282,15 +1289,22 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.6",
-      "version_code": 23,
+      "version": "v5.0.3",
+      "version_code": 29,
       "author": "Person0z",
-      "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device – no entry for malware, bugs, or party crashers!",
+      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "metadata": {
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1735593503712,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
+        },
         {
           "timestamp": 1734988701700,
           "version": "v4.2.6 (23)",

@@ -2,12 +2,19 @@
   "module": {
     "id": "chroot-distro",
     "name": "chroot-distro",
-    "version": "1.3.1",
-    "version_code": 13,
+    "version": "1.3.2",
+    "version_code": 14,
     "author": "@YasserNull",
     "description": "install linux distributions on android"
   },
   "versions": [
+    {
+      "timestamp": 1735512977000,
+      "version": "1.3.2 (14)",
+      "version_code": 14,
+      "zip_file": "14.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1734907649000,
       "version": "1.3.1 (13)",
