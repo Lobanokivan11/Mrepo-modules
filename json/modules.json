@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1736198383718,
+  "timestamp": 1736803142258,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -399,8 +399,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.3.2",
-      "version_code": 14,
+      "version": "1.4.0",
+      "version_code": 15,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -408,6 +408,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1736633090000,
+          "version": "1.4.0 (15)",
+          "version_code": 15,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/chroot-distro/15.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1735512977000,
           "version": "1.3.2 (14)",
@@ -1298,6 +1305,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1736803111384,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
+        },
         {
           "timestamp": 1736198352050,
           "version": "v5.0.3 (29)",
