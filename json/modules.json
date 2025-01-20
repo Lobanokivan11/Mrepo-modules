@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1736803142258,
+  "timestamp": 1737407898528,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1305,6 +1305,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1737407883125,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
+        },
         {
           "timestamp": 1736803111384,
           "version": "v5.0.3 (29)",
