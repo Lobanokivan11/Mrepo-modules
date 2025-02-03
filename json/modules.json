@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1738012777677,
+  "timestamp": 1738617548308,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1306,6 +1306,13 @@
       },
       "versions": [
         {
+          "timestamp": 1738617524146,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
+        },
+        {
           "timestamp": 1738012751911,
           "version": "v5.0.3 (29)",
           "version_code": 29,
@@ -1339,13 +1346,6 @@
           "version_code": 29,
           "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
           "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1734988701700,
-          "version": "v4.2.6 (23)",
-          "version_code": 23,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/23.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/23.md"
         }
       ]
     },
