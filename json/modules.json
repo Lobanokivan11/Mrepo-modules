@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1738617548308,
+  "timestamp": 1739222397063,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1290,62 +1290,6 @@
           "version_code": 10,
           "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/magisk_proc_monitor/10.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "Malwack",
-      "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.3",
-      "version_code": 29,
-      "author": "Person0z",
-      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
-      "metadata": {
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1738617524146,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1738012751911,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1737407883125,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1736803111384,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1736198352050,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1735593503712,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/29.md"
         }
       ]
     },
