@@ -2,12 +2,19 @@
   "module": {
     "id": "sqlite3",
     "name": "SQLite for arm, arm64, x86 and x64 devices",
-    "version": "v3.47.2",
-    "version_code": 20241212,
+    "version": "v3.49.1",
+    "version_code": 20250220,
     "author": "Rojen Zaman",
     "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices"
   },
   "versions": [
+    {
+      "timestamp": 1740001538000,
+      "version": "v3.49.1 (20250220)",
+      "version_code": 20250220,
+      "zip_file": "20250220.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1733952052000,
       "version": "v3.47.2 (20241212)",
