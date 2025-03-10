@@ -2,12 +2,19 @@
   "module": {
     "id": "Malwack",
     "name": "Malwack | Anti-Malware & Ad Blocker",
-    "version": "v5.0.3",
-    "version_code": 29,
+    "version": "v5.0.4",
+    "version_code": 30,
     "author": "Person0z",
     "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!"
   },
   "versions": [
+    {
+      "timestamp": 1741641613128,
+      "version": "v5.0.4 (30)",
+      "version_code": 30,
+      "zip_file": "30.zip",
+      "changelog": "30.md"
+    },
     {
       "timestamp": 1741036891387,
       "version": "v5.0.3 (29)",
@@ -38,13 +45,6 @@
     },
     {
       "timestamp": 1738617524146,
-      "version": "v5.0.3 (29)",
-      "version_code": 29,
-      "zip_file": "29.zip",
-      "changelog": "29.md"
-    },
-    {
-      "timestamp": 1738012751911,
       "version": "v5.0.3 (29)",
       "version_code": 29,
       "zip_file": "29.zip",

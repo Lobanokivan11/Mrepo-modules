@@ -2,12 +2,19 @@
   "module": {
     "id": "StevenBlock",
     "name": "StevenBlock | Anti-Malware & Ad Blocker",
-    "version": "v1.6.8",
-    "version_code": 69,
+    "version": "v1.6.9",
+    "version_code": 70,
     "author": "𝗛𝗼𝗹𝗶",
     "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀"
   },
   "versions": [
+    {
+      "timestamp": 1741641630278,
+      "version": "v1.6.9 (70)",
+      "version_code": 70,
+      "zip_file": "70.zip",
+      "changelog": "70.md"
+    },
     {
       "timestamp": 1741036907801,
       "version": "v1.6.8 (69)",

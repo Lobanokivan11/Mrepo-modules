@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1741036943765,
+  "timestamp": 1741641641453,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -79,8 +79,8 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3.2",
-      "version_code": 6,
+      "version": "v1.3.4",
+      "version_code": 8,
       "author": "nedorazrab0",
       "description": "Bootloop protection",
       "metadata": {
@@ -89,6 +89,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues"
       },
       "versions": [
+        {
+          "timestamp": 1741587011000,
+          "version": "v1.3.4 (8)",
+          "version_code": 8,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/abootloop/8.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/abootloop/8.md"
+        },
         {
           "timestamp": 1730660996000,
           "version": "v1.3.2 (6)",
@@ -1301,6 +1308,27 @@
       ]
     },
     {
+      "id": "Malwack",
+      "name": "Malwack | Anti-Malware & Ad Blocker",
+      "version": "v5.0.4",
+      "version_code": 30,
+      "author": "Person0z",
+      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1741641613128,
+          "version": "v5.0.4 (30)",
+          "version_code": 30,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.md"
+        }
+      ]
+    },
+    {
       "id": "microg_installer",
       "name": "microG Installer Revived",
       "version": "Revived 4.2.0-0",
@@ -1883,8 +1911,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.6.8",
-      "version_code": 69,
+      "version": "v1.6.9",
+      "version_code": 70,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
       "metadata": {
@@ -1894,6 +1922,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1741641630278,
+          "version": "v1.6.9 (70)",
+          "version_code": 70,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/70.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/70.md"
+        },
         {
           "timestamp": 1741036907801,
           "version": "v1.6.8 (69)",
