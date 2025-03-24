@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1742246411008,
+  "timestamp": 1742851205797,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1320,6 +1320,13 @@
       },
       "versions": [
         {
+          "timestamp": 1742851181486,
+          "version": "v5.0.4 (30)",
+          "version_code": 30,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.md"
+        },
+        {
           "timestamp": 1742246386776,
           "version": "v5.0.4 (30)",
           "version_code": 30,
@@ -1918,8 +1925,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.7.0",
-      "version_code": 71,
+      "version": "v1.7.1",
+      "version_code": 72,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
       "metadata": {
@@ -1929,6 +1936,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1742851200500,
+          "version": "v1.7.1 (72)",
+          "version_code": 72,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/72.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/72.md"
+        },
         {
           "timestamp": 1742246408120,
           "version": "v1.7.0 (71)",
