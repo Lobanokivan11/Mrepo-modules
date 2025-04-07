@@ -1,6 +1,6 @@
 {
   "name": "Magisk Repos for Mrepo use",
-  "timestamp": 1743456199401,
+  "timestamp": 1744060953451,
   "metadata": {
     "homepage": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main"
   },
@@ -1320,6 +1320,13 @@
       },
       "versions": [
         {
+          "timestamp": 1744060931268,
+          "version": "v5.0.4 (30)",
+          "version_code": 30,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/Malwack/30.md"
+        },
+        {
           "timestamp": 1743456171117,
           "version": "v5.0.4 (30)",
           "version_code": 30,
@@ -1932,8 +1939,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.7.2",
-      "version_code": 73,
+      "version": "v1.7.3",
+      "version_code": 74,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
       "metadata": {
@@ -1943,6 +1950,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1744060949210,
+          "version": "v1.7.3 (74)",
+          "version_code": 74,
+          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/74.zip",
+          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/74.md"
+        },
         {
           "timestamp": 1743456190068,
           "version": "v1.7.2 (73)",
@@ -1977,13 +1991,6 @@
           "version_code": 69,
           "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/69.zip",
           "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/69.md"
-        },
-        {
-          "timestamp": 1740431960857,
-          "version": "v1.6.7 (68)",
-          "version_code": 68,
-          "zip_url": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/68.zip",
-          "changelog": "https://raw.githubusercontent.com/Lobanokivan11/Mrepo-modules/main/modules/StevenBlock/68.md"
         }
       ]
     },
